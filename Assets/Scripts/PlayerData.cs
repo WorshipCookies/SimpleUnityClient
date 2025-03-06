@@ -6,15 +6,15 @@ using UnityEngine;
 [Serializable]
 public class PlayerData
 {
-    public string ID;
-    public int TimeStamp;
+    public string Data_Type;
+    public int FrameCount;
     public string msg;
 
 
-    public PlayerData(string ID, int TimeStamp, string msg) 
+    public PlayerData(string Data_Type, int FrameCount, string msg) 
     {
-        this.ID = ID;
-        this.TimeStamp = TimeStamp;
+        this.Data_Type = Data_Type;
+        this.FrameCount = FrameCount;
         this.msg = msg;
     }
 

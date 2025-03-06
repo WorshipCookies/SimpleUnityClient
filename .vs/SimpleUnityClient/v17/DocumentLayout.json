@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|c:\\users\\louis\\onedrive\\lusofona\\projects\\dad - project\\dad-client\\simpleunityclient\\assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\assets\\scripts\\clientcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\assets\\scripts\\playerdatacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8529CFDA-1203-22E6-289D-BF2D2E5D3BFA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdatacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerDataCreator.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\PlayerDataCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDataCreator.cs",
+              "ToolTip": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\PlayerDataCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDataCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:04:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientComm.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\ClientComm.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientComm.cs",
+              "ToolTip": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\ClientComm.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientComm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:04:24.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\louis\\OneDrive\\Lusofona\\Projects\\DAD - Project\\DAD-Client\\SimpleUnityClient\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:04:24.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

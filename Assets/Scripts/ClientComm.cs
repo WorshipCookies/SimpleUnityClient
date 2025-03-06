@@ -37,16 +37,6 @@ public class ClientComm : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
- /*       //disable this if you are sending from another script or a button
-        if (Input.GetKeyDown(KeyCode.Return))
-        {
-            SendMessageToServer("Hello from Unity Server!");
-        }*/
-    }
-
     private async void OnApplicationQuit()
     {
         await websocket.Close();
